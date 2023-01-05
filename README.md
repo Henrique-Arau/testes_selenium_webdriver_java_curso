@@ -37,7 +37,7 @@
 
 No Terminal/Console:
 <ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la testes_selenium_webdriver_java_curso.git</code></li>
+	<li>Faça um clone do projeto na sua máquina: <code>https://github.com/Henrique-Arau/testes_selenium_webdriver_java_curso.git</code></li>
 	<li>Entre na pasta raiz do projeto</li> 
 	<li>Execute o comando: <code>mvn test</code></li>
 </ol>
